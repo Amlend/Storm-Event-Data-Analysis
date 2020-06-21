@@ -10,7 +10,7 @@ Peer-graded Assignment: Course Project 2
 
 **Analysis report available on RPubs**
 
-* <a href="https://rpubs.com/amlendsingh/StormEventDataAnalysis</a>
+* <a href="https://rpubs.com/amlendsingh/StormEventDataAnalysis">Analysis of U.S. Storm Event Data and the Impact on Public Health and the Economy</a>
 
 **Analysis report available on GitHub**
 
